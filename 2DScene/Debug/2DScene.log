@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(31,28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(32,15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(104,15): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(105,16): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(296,35): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(296,35): warning C4244:         with
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(296,35): warning C4244:         [
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(296,35): warning C4244:             T=float
+C:\Users\User\source\repos\2DScene\2DScene\main.cpp(296,35): warning C4244:         ]
+  2DScene.vcxproj -> C:\Users\User\source\repos\2DScene\Debug\2DScene.exe
