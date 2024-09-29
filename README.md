@@ -14,7 +14,7 @@ This project is a simple 2D scene implemented using OpenGL, SDL, and GLSL shader
 
 - **Earth Rotation:** The Earth rotates slowly along the z-axis, simulating planetary rotation.
 - **Traveler Orbit:** A traveler object orbits around the Earth, creating a simulation of space objects in motion.
-- **Ship and Ghost Animation:** The scene features a ship that moves along an elliptical path. Depending on its position, the ghost object is rendered instead of the ship. The ship scales based on its z-position to simulate depth.
+- **Ship and Ghost Animation:** The scene features a ship that moves along an elliptical path. Depending on its position, the ghost object is rendered instead of the ship. The ship scales based on its z-position to simulate depth. The ghost is scaled with respect to the ship.
 - **Animated Background:** The background cycles through 8 space-themed PNG images to create the illusion of movement in space.
 - **Shader Program:** GLSL shaders are used to handle texture mapping and transformations.
 - **SDL-based Input Handling:** Basic input handling is implemented to manage the program's state.
