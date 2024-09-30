@@ -6,6 +6,21 @@
 
 ---
 
+
+
+
+
+
+https://github.com/user-attachments/assets/7f867758-9ca2-40a0-aae6-08f2f520fb90
+
+
+
+
+
+
+
+
+
 ## Project Description
 
 This project is a simple 2D scene implemented using OpenGL, SDL, and GLSL shaders. It simulates a space-themed scene where multiple objects, such as Earth, a traveler, a ghost, and a ship, are animated. The background features an "animated" starry sky that cycles through multiple PNG images to create a moving space effect.
